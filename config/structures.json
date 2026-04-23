@@ -1,0 +1,118 @@
+{
+  "structures": [
+    {
+      "id": "problem_solution",
+      "name": "Problem-Solution Deep Dive",
+      "description": "Opens with a core problem, then dives into solutions with evidence.",
+      "sections": [
+        "hook_and_context",
+        "core_problem",
+        "why_this_matters",
+        "solution_overview",
+        "how_it_works",
+        "practical_benefits",
+        "potential_drawbacks",
+        "final_verdict"
+      ]
+    },
+    {
+      "id": "comparison",
+      "name": "Comparison-Style Article",
+      "description": "Evaluates multiple options against clear criteria.",
+      "sections": [
+        "overview_and_context",
+        "what_to_look_for",
+        "option_a_analysis",
+        "option_b_analysis",
+        "head_to_head_comparison",
+        "use_case_recommendations",
+        "final_recommendation"
+      ]
+    },
+    {
+      "id": "guide",
+      "name": "Comprehensive Guide",
+      "description": "A thorough walkthrough covering fundamentals through advanced topics.",
+      "sections": [
+        "introduction_and_scope",
+        "foundational_concepts",
+        "core_methodology",
+        "step_by_step_walkthrough",
+        "advanced_considerations",
+        "common_mistakes",
+        "key_takeaways"
+      ]
+    },
+    {
+      "id": "faq_led",
+      "name": "FAQ-Led Article",
+      "description": "Centers on answering the specific questions readers are asking.",
+      "sections": [
+        "quick_answer",
+        "background_context",
+        "faq_block_primary",
+        "faq_block_secondary",
+        "faq_block_advanced",
+        "deeper_analysis",
+        "summary"
+      ]
+    },
+    {
+      "id": "contrarian",
+      "name": "Contrarian Review",
+      "description": "Challenges conventional wisdom and presents an honest, nuanced perspective.",
+      "sections": [
+        "contrarian_thesis",
+        "conventional_wisdom",
+        "evidence_against_consensus",
+        "nuanced_reality",
+        "what_works_and_what_doesnt",
+        "honest_assessment",
+        "balanced_conclusion"
+      ]
+    },
+    {
+      "id": "use_case",
+      "name": "Use-Case Narrative",
+      "description": "Explores the topic through distinct, realistic reader scenarios.",
+      "sections": [
+        "scenario_setup",
+        "use_case_one",
+        "use_case_two",
+        "use_case_three",
+        "cross_cutting_insights",
+        "fit_vs_misfit",
+        "closing_guidance"
+      ]
+    },
+    {
+      "id": "decision_framework",
+      "name": "Decision Framework Article",
+      "description": "Gives readers a structured way to make the right choice for their situation.",
+      "sections": [
+        "decision_context",
+        "key_decision_factors",
+        "factor_analysis_one",
+        "factor_analysis_two",
+        "factor_analysis_three",
+        "decision_matrix",
+        "recommendation_by_profile"
+      ]
+    },
+    {
+      "id": "step_by_step",
+      "name": "Step-by-Step Explainer",
+      "description": "A process-oriented walkthrough that produces a clear outcome.",
+      "sections": [
+        "outcome_preview",
+        "prerequisites",
+        "step_one",
+        "step_two",
+        "step_three",
+        "step_four",
+        "troubleshooting",
+        "next_steps"
+      ]
+    }
+  ]
+}
