@@ -1,0 +1,18 @@
+# Byte-compiled / optimised / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Environment variable files
+.env.*
+
+# OS artefacts
+.DS_Store
+Thumbs.db
